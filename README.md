@@ -6,8 +6,12 @@
 <img style="width:100%;max-width:100%;height:auto;" src="screenshots/02.png"/>
 <img style="width:100%;max-width:100%;height:auto;"src="screenshots/01.png"/>
 <br/>
-<img style="width:49%;max-width:100%;height:auto;"src="screenshots/04.png"/>
-<img style="width:49%;max-width:100%;height:auto;"src="screenshots/03.png"/>
+<table>
+  <tr>
+    <td><img style="width:100%;max-width:100%;height:auto;"src="screenshots/04.png"/></td>
+    <td><img style="width:100%;max-width:100%;height:auto;"src="screenshots/03.png"/></td>
+  </tr>
+ </table>
 <br/><br/>
 
 ## Available Scripts
